@@ -2,7 +2,9 @@
 This project is a fully serverless application that generates AI-powered images based on text prompts using Amazon Bedrock's Stable Diffusion model.
 
 ## Architecture
-![Uploading Architecture.gif…]()
+
+![Architecture](https://github.com/user-attachments/assets/13beba66-7f1c-429f-a280-90a88def5976)
+
 
 
 ## 🧰 Key AWS Services Used
