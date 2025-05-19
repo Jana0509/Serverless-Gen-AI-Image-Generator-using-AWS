@@ -7,13 +7,12 @@ Serverless Gen-AI Image Generator using AWS
 
 This project is a fully serverless application that generates AI-powered images based on text prompts using Amazon Bedrock's Stable Diffusion model.
 
-## 🔧 Tech Stack
-
-- AWS Lambda
-- Amazon Bedrock (Stable Diffusion XL)
-- Amazon S3
-- Amazon DynamoDB
-- IAM Roles & Policies
+## 🧰 Key AWS Services Used
+🔹 Amazon Bedrock – Text-to-image generation using GenAI (Stable Diffusion)
+🔹 AWS Lambda – Orchestration with fully serverless compute
+🔹 Amazon S3 – Scalable object storage with secure delivery via presigned URLs
+🔹 Amazon DynamoDB – Logging and tracking of prompts and statuses
+🔹 IAM Roles & Policies – Secure service-to-service communication
 
 ## 🔁 Workflow
 
@@ -33,3 +32,20 @@ This project is a fully serverless application that generates AI-powered images 
 {
   "prompt": "A futuristic city skyline at night"
 }
+
+###  Real-World Use Cases
+This architecture can be applied across multiple industries:
+
+🎨 Marketing & Advertising – On-demand creative generation
+
+🛍️ E-Commerce – Automated product visuals
+
+📰 Publishing & Blogging – AI-powered article illustrations
+
+🎮 Gaming – Visual prototyping
+
+🎓 Education – Teaching materials or concept illustrations
+
+🏥 Healthcare (Non-clinical) – Patient communication visuals
+
+💡 Innovation Labs – Ideation & design exploration
