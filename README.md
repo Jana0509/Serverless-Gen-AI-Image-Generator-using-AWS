@@ -8,11 +8,15 @@ This project is a fully serverless application that generates AI-powered images 
 
 
 ## 🧰 Key AWS Services Used
-🔹 Amazon Bedrock – Text-to-image generation using GenAI (Stable Diffusion)
-🔹 AWS Lambda – Orchestration with fully serverless compute
-🔹 Amazon S3 – Scalable object storage with secure delivery via presigned URLs
-🔹 Amazon DynamoDB – Logging and tracking of prompts and statuses
-🔹 IAM Roles & Policies – Secure service-to-service communication
+🔹Amazon Bedrock – Text-to-image generation using GenAI (Stable Diffusion)
+
+🔹AWS Lambda – Orchestration with fully serverless compute
+
+🔹Amazon S3 – Scalable object storage with secure delivery via presigned URLs
+
+🔹Amazon DynamoDB – Logging and tracking of prompts and statuses
+
+🔹IAM Roles & Policies – Secure service-to-service communication
 
 ## 🔁 Workflow
 
