@@ -1,11 +1,9 @@
 # Serverless-Gen-AI-Image-Generator-using-AWS
-Serverless Gen-AI Image Generator using AWS
-
-
-
-# 🖼️ Serverless Gen-AI Image Generator using AWS
-
 This project is a fully serverless application that generates AI-powered images based on text prompts using Amazon Bedrock's Stable Diffusion model.
+
+## Architecture
+![Uploading Architecture.gif…]()
+
 
 ## 🧰 Key AWS Services Used
 🔹 Amazon Bedrock – Text-to-image generation using GenAI (Stable Diffusion)
