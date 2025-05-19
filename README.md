@@ -42,11 +42,17 @@ This project is a fully serverless application that generates AI-powered images 
 This architecture can be applied across multiple industries:
 
 🎨 Marketing & Advertising – On-demand creative generation
+
 🛍️ E-Commerce – Automated product visuals
+
 📰 Publishing & Blogging – AI-powered article illustrations
+
 🎮 Gaming – Visual prototyping
+
 🎓 Education – Teaching materials or concept illustrations
+
 🏥 Healthcare (Non-clinical) – Patient communication visuals
+
 💡 Innovation Labs – Ideation & design exploration
 
 ### ✅ Conclusion
